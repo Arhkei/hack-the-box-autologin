@@ -1,0 +1,2 @@
+# hacktheboxautologin/HackTheBox.py: 17
+selenium == 4.0.0a1
