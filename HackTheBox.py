@@ -22,11 +22,10 @@ from subprocess import Popen, PIPE
 import os
 from sys import argv
 
-#Hardcoded passwords = bad, fill in with your HTB login and sudo password anyways
+#Fill in with your HTB login
 email = ""
 password = ""
-#Sudo password is default kali
-sudoPassword = "kali"
+sudoPassword = ""
 
 #Checks if you entered credentials in command line, if not skips
 try:
